@@ -59,7 +59,7 @@ QR-Code-Generator/
 
 ## 📸 Preview
 
-> The QR code appears in the dark container once generated.
+(https://github.com/saqib783/QR-gen-js/blob/9a74657abcc3b4b5180a989067429cfc6987b4c6/Screenshot%20(1093).png)
 
 ---
 
